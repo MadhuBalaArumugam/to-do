@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   todo-web-application:
-    image: ranjithranganathan/todo-web-application:1.0.0-SNAPSHOT
+    image: M1050435/todo-web-application:1.0.0-SNAPSHOT
     ports:
       - "8080:8080"
     restart: always
