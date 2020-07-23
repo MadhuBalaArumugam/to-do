@@ -130,7 +130,7 @@
 				</executions>
 				<configuration>
 					<!-- todo -->
-					<repository>M1050435/${project.name}</repository>
+					<repository>m1050435/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 					<pullNewerImage>false</pullNewerImage> 
